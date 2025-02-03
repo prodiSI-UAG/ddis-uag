@@ -2,20 +2,20 @@
 permalink:      pretty
 
 # Setup
-title:          Blue
-description:    Minimalist Jekyll theme based on Bulma.
+title:          DDIS UAG
+description:    Data-Driven and Innovation Services - Universitas Ary Ginanjar.
 baseurl:        
-url:            "https://jsalvador.me"
+url:            "https://prodisi-uag.github.io/ddis-uag/"
 
 color:          link
 
 author:
-  name:         Juanjo Salvador
-  url:          http://jsalvador.me
+  name:         DDIS UAG
+  url:          https://prodisi-uag.github.io/ddis-uag/
   email:                                           # Place your email here
-  github:       JuanjoSalvador                     # Place your GitHub username here
-  twitter:      Linuxneitor                        # Place your twitter username here
-  mastodon:     https://mastodon.social/@jsalvador # Place your profile URL here
+  github:       https://github.com/prodiSI-UAG                    # Place your GitHub username here
+#  twitter:      Linuxneitor                        # Place your twitter username here
+#  mastodon:     https://mastodon.social/@jsalvador # Place your profile URL here
 
 twitter:
   username: Linuxneitor
